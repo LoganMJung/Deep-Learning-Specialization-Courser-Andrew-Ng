@@ -41,10 +41,10 @@ This course has 5 parts, or 5 courses that vary from 2-4 weeks long. Each week e
   
 - Course 4: Convolutional Neural Networks
 
-  - Week 1 - PA 1 - Convolutional Model: Step-by-step
-  - Week 1 - PA 2 - Convolutional Model: Application
-  - Week 2 - PA 1 - Keras - Tutorial - Happy House
-  - Week 2 - PA 2 - Residual Networks
+  - Week 1 - Convolutional Model: Step-by-step
+  - Week 1 - Convolutional Model: Application
+  - Week 2 - Keras - Tutorial - Happy House
+  - Week 2 - Residual Networks
   
 - Course 5: Sequence Models
 
