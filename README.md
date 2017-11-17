@@ -12,9 +12,11 @@ This repo contains all my work for this specialization. All the code base, quiz 
 
 **VERBOSE CONTENT WARNING: YOU CAN JUMP TO THE NEXT SECTION IF YOU WANT**
 
-As a CS major student and a long-time self-taught learner, I have completed many CS related MOOCs on Coursera, Udacity, Udemy, and Edx. I do understand the hard time you spend on understanding new concepts and debugging your program. There are discussion forums on most MOOC platforms, however, even a question with detailed description may need some time to be answered. Here I released these solutions, which are **only for your reference purpose**. It may help you to save some time. And I hope you don't copy any part of the code (the programming assignments are fairly easy if you read the instructions carefully), see the quiz solutions before you start your own adventure. This course is almost the simplest deep learning course I have ever taken, but the simplicity is based on the fabulous course content and structure. It's a treasure given by deeplearning.ai team.
+As a student studying data analytics at the Univerisity of Texas at San Antonio. December I will be graduating with masters and this deep learning course was additional self-study course on top of the material of the program. The purpose of me creating a repo for this course was to showcase the skills taught through the course and allow my skills to shine. I do understand the hard time you spend on understanding new concepts and debugging your program. There are discussion forums on most MOOC platforms, however, even a question with detailed description may need some time to be answered. Here I released these solutions, which are **only for your reference purpose**.  
 
-Currently, this repo has 3 major parts you may be interested in and I will give a list here.
+For those who are looking at the code for help or assistance, please don't copy any part of the code. The programming assignments are fairly easy if you read the instructions carefully, see the quiz solutions before you start your own adventure. This course is almost the simplest deep learning course I have ever taken, but the simplicity is based on the fabulous course content and structure. It's a treasure given by deeplearning.ai team.
+
+This course has 5 parts, or 5 courses that vary from 2-4 weeks long. Each week ends in a quiz as well as a programming exercise. 
 
 ## Programming Assignments
 
