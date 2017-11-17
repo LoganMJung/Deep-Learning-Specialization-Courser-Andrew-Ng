@@ -23,23 +23,18 @@ This course has 5 parts, or 5 courses that vary from 2-4 weeks long. Each week e
 - [Course 1: Neural Networks and Deep Learning](https://github.com/LoganMathewJung/Deep-Learning-Specialization-Courser-Andrew-Ng/tree/master/Course%201%20-%20Neural%20Networks%20and%20Deep%20Learning)
 
   - [Week 2 - Python Basic with Numpy](https://github.com/LoganMathewJung/Deep-Learning-Specialization-Courser-Andrew-Ng/tree/master/Course%201%20-%20Neural%20Networks%20and%20Deep%20Learning/Week%202/Jupyter%20Notebooks/Python%20Basics%20with%20Numpy)
-  
   - [Week 2 - Logistic Regression with a Neural Network](https://github.com/LoganMathewJung/Deep-Learning-Specialization-Courser-Andrew-Ng/tree/master/Course%201%20-%20Neural%20Networks%20and%20Deep%20Learning/Week%202/Jupyter%20Notebooks/Logistic%20Regression%20as%20a%20Neural%20Network)
-  
   - [Week 3 - Planar data classification with one hidden layer](https://github.com/LoganMathewJung/Deep-Learning-Specialization-Courser-Andrew-Ng/tree/master/Course%201%20-%20Neural%20Networks%20and%20Deep%20Learning/Week%203/Jupyter%20Notebooks/Planar%20data%20classification%20with%20one%20hidden%20layer)
-  
   - [Week 4 - Building your Deep Neural Network: Step by Step¶](https://github.com/LoganMathewJung/Deep-Learning-Specialization-Courser-Andrew-Ng/tree/master/Course%201%20-%20Neural%20Networks%20and%20Deep%20Learning/Week%204/Jupyter%20Notebooks/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step)
-  
   - [Week 4 - Deep Neural Network for Image Classification: Application](https://github.com/LoganMathewJung/Deep-Learning-Specialization-Courser-Andrew-Ng/tree/master/Course%201%20-%20Neural%20Networks%20and%20Deep%20Learning/Week%204/Jupyter%20Notebooks/Deep%20Neural%20Network%20Application%20Image%20Classification)
 
 - [Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://github.com/LoganMathewJung/Deep-Learning-Specialization-Courser-Andrew-Ng/tree/master/Course%202%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%20Regularization%20and%20Optimization)
 
-  - [Week 1 - PA 1 - Initialization](https://github.com/Kulbear/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Initialization.ipynb)
-  - [Week 1 - PA 2 - Regularization](https://github.com/Kulbear/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Regularization.ipynb)
-  - [Week 1 - PA 3 - Gradient Checking](https://github.com/Kulbear/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Gradient%20Checking.ipynb)
-  - [Week 2 - PA 4 - Optimization Methods](https://github.com/Kulbear/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Optimization%20methods.ipynb)
-  - [Week 3 - PA 5 - TensorFlow Tutorial](https://github.com/Kulbear/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Tensorflow%20Tutorial.ipynb)
-
+  - [Week 1 - Initialization](https://github.com/LoganMathewJung/Deep-Learning-Specialization-Courser-Andrew-Ng/tree/master/Course%202%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%20Regularization%20and%20Optimization/Week%201/Jupyter%20Notebooks/Initialization)
+  - [Week 1 - Regularization](https://github.com/LoganMathewJung/Deep-Learning-Specialization-Courser-Andrew-Ng/tree/master/Course%202%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%20Regularization%20and%20Optimization/Week%201/Jupyter%20Notebooks/Regularization)
+  - [Week 1 - Gradient Checking](https://github.com/LoganMathewJung/Deep-Learning-Specialization-Courser-Andrew-Ng/tree/master/Course%202%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%20Regularization%20and%20Optimization/Week%201/Jupyter%20Notebooks/Gradient%20Checking)
+  - [Week 2 - Optimization Methods](https://github.com/LoganMathewJung/Deep-Learning-Specialization-Courser-Andrew-Ng/tree/master/Course%202%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%20Regularization%20and%20Optimization/Week%202/Jupyter%20Notebooks/Optimization)
+  - Week 3 - TensorFlow Tutorial
 - Course 3: Structuring Machine Learning Projects
 
   - There is no PA for this course. But this course comes with very interesting case study quizzes.
